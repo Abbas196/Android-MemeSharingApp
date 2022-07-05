@@ -1,0 +1,1 @@
+This a meme sharing application. It has been developed using kotlin.
